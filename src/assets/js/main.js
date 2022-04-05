@@ -37,4 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         }
     }
+    function redirectSignUp() {
+        window.location('signup.html')
+    }
 });
